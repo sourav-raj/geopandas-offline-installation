@@ -1,0 +1,9 @@
+GDAL-3.0.2-cp37-cp37m-win_amd64.whl
+Rtree-0.9.3-cp37-cp37m-win_amd64.whl
+munch-2.5.0-py2.py3-none-any.whl
+click_plugins-1.1.1-py2.py3-none-any.whl
+cligj-0.5.0-py3-none-any.whl
+Fiona-1.8.13-cp37-cp37m-win_amd64.whl
+Shapely-1.6.4.post2-cp37-cp37m-win_amd64.whl
+pyproj-2.4.2.post1-cp37-cp37m-win_amd64.whl
+geopandas-0.6.2-py2.py3-none-any.whl
